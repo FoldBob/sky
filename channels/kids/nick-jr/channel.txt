@@ -1,0 +1,2 @@
+Manifest URL: https://prod-skyonelive.akamaized.net/nickelodeon-jr.mpd
+DRM URL: https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BQAutsOzKbgAJGNlNDk3NDc3LThjZDMtNGE2Ny1hYThmLTk1ZTQwNDE1Mjg5MAAAAGDZjxm55JQnaq10g_UI-51fZgdPlCn_6KRwvF6aSoFpBro5KfM-hw_Nfa7sVoDyi-X47AuGNYQdlkQRuLVmTb8gTOGASeWOIGDIThF9_Wwms_RVZCCOmbw7nz3J-Kn-HAEmAxXlOglntiMgKrdS37bji-OHPg
