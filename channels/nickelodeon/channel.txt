@@ -1,2 +1,0 @@
-Manifest URL: https://prod-skyonelive.akamaized.net/nickelodeon-sr.mpd
-DRM URL: https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BQAutsOzKb4AJGNlNDk3NDc3LThjZDMtNGE2Ny1hYThmLTk1ZTQwNDE1Mjg5MAAAAGC1WuYfhuZBsLSB_mCCeo-XAQ8EkPSBVWK5kMucf6CqfpBhyPeKZXtwN4UszHg1yrlC7dv1lNkWsgjS65zGKwRxasxGy6OKpvrOeRFDEiPx2blZg0Ey8KQSOZzWaaR0aGCSfd6LCOTckrwtcPnyo_lhWzs3BQ
