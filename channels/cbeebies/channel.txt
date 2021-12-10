@@ -1,2 +1,0 @@
-Manifest URL: https://prod-skyonelive.akamaized.net/cbeebies.mpd
-DRM URL: https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BQAutsOzKa8AJGNlNDk3NDc3LThjZDMtNGE2Ny1hYThmLTk1ZTQwNDE1Mjg5MAAAAGCVZLDvndloTMWtMpFxRa4TJ62ToNyW7p_7xFpQ2Z9Y8tvzeVSdhNg9LslHno6kJqe2-Ga73aOfum7k0LFlkt7c4WXj-5dGsmGdccJ5cEgKtMw5ceJ6j_JKsD2cRFKIm555i0xw6FNBnM-Q6Qiwe5e7utMKmA
