@@ -14,3 +14,8 @@ It's complicated, but this will get you through the process. Thanks to muv7 for 
 6. If you are outside of NZ (New Zealand), get a VPN and connect to it's NZ location. I recommend Urban VPN for Chrome, since it's completely free. (If you stop the VPN, the channel will stop working.)
 7. You are good to go.
 8. Play the channel by clicking "Play".
+
+# How do i record a currently playing channel?
+Once followed the steps above, turn off hardware acceleration in Chrome and then relaunch Chrome.
+Go to the Shaka player and now you can snap and record free.
+The best way to record these channels is to go fullscreen and Window Capture them in OBS.
