@@ -19,3 +19,6 @@ It's complicated, but this will get you through the process. Thanks to muv7 for 
 Once followed the steps above, turn off hardware acceleration in Chrome and then relaunch Chrome.
 Go to the Shaka player and now you can snap and record free.
 The best way to record these channels is to go fullscreen and Window Capture them in OBS.
+
+# What devices do these work on?
+Due to the lack of Widevine (type of DRM needed for it to work properly) support other devices have, only Android and PC can be used.
